@@ -14,5 +14,7 @@ public class First {
         // third line
 
         //I have new line added, very important info
+
+        // we have new lines
     }
 }
